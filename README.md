@@ -3,6 +3,7 @@
 ## ControlloChiuse
 
 Chiuse 1 
+
 Per  aumentare  la  sicurezza  nei  canali  navigabili  si  è  reso  necessario  rivedere  la  gestione  del 
 sistema  di  controllo  delle  chiuse,  automatizzando  le  procedure  di  apertura  e  chiusura  e 
 introducendo  la  possibilità  di  una  supervisione  remota  degli  impianti.  
